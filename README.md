@@ -1,5 +1,5 @@
 # Basic Info Api
-This API provides a system for fetching basic user information including the name, email address and the current time the api was fetched.
+This API provides a system for fetching basic user information including the email address, current time the api was fetched and the github url of the repository.
 
 ---
 
