@@ -5,7 +5,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 
-// Route::get('/basic-info',[BasicInfoController::class,'index']);
+
 
 Route::get('/basic-info',function(){
     return response()->json([
