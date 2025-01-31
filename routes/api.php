@@ -5,5 +5,5 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 
-Route::get('/get-basic-info',[BasicInfoController::class,'index']);
+Route::get('/basic-info',[BasicInfoController::class,'index']);
 
